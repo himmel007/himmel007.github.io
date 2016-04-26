@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Study and Life in Cambridge and Afterwards]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-26T10:56:28.000Z</updated>
+  <updated>2016-04-26T13:02:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[纪念第一篇拿到First的Essay]]></title>
+    <link href="http://yoursite.com/2016/04/26/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E7%AF%87%E6%8B%BF%E5%88%B0First%E7%9A%84Essay/"/>
+    <id>http://yoursite.com/2016/04/26/纪念第一篇拿到First的Essay/</id>
+    <published>2016-04-26T10:57:20.000Z</published>
+    <updated>2016-04-26T13:02:41.000Z</updated>
+    <content type="html"><![CDATA[<p>这篇essay（小论文）是写给国际投资法的，整个选题从去华盛顿之前就开始想了，然后陆陆续续跟人讨论——后来发现也并没有什么用，因为最后还是我自己把该读的文献资料大概摸熟并且找了很多除了K.Miles和Waibel他们推荐材料之外的文章，才勾勒出了最终的结构。虽然只有不到1700字，但是这是浓缩后的成品，也是淬炼语句，不留废话的重要训练。</p>
+<p>以下是整个文章形成思路的三个阶段草图（我发现我还是比较喜欢用图形说话，有利于构建自己的论点）。</p>
+<p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/LLM/IMG_20160411_203606_HDR_zpsrpxrjnz0.jpg" alt=""></p>
+<p>图一：这个是最初的思路，其实基本上就是按照题目所引用的裁决所言，所以看上去基本上对我来说没有太大的帮助，比较一板一眼。对于temporal protection和temporal jurisdiction两者没有一个清晰的区分，也没有将applicable law单独分离出来论述——彼时并没有考虑到题目中暗含了一个applicable law的问题，以为单纯的就是temporal protection of substantie provions in the BIT 和 temporal jurisdiction of the tribunal竞合。毕竟就这个问题对我而言已经有点难了，但是囿于没有大量阅读材料所以不能领悟到这个问题之所以难其实是因为applicable law的原因。</p>
+<p>图一摄于4月11日，但是画出来是在华盛顿时期——大概是3月25-31日之间某天在Hyatt的法官休息室，因为后来4月1日Y同学来了之后就只顾着玩根本没力气看文献想问题了。</p>
+<p>根据图一的粗略结构开始顺手把一些我觉得有用的片段放到不同的段落下面——当然这一点并不适用于考试的时候，但是对于平常写作业不失为一个好方法，毕竟很多文章回头再找就不知道相关的段落是什么，即便有做一些备注。</p>
+<p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/LLM/IMG_20160413_012915_HDR_zpsjelgmwfy.jpg" alt=""></p>
+<p>徒儿是真正开始写的时候开始改良的结构。可以看出来最上层的结构是根据ZD的理论构建的:</p>
+<p>temporal jurisdiction = consent to arbitration + [the time of] temporal application of the BIT’s obligation </p>
+<p>这就比较合理了，因为ICSID Convention对于temporal jurisdiction是只口不提的（我在华盛顿的时候assume它有提到，但是后来看书了之后才发觉说公约将这个内容留给了当事国来决定），consent to arbitration in the BIT是决定temporal jurisdiction的第一步。</p>
+<p>第二步就是涉及到具体的investor-state dispute的时候的temporal protection的问题。不得不说，ZD的行文还是蛮让人醍醐灌顶的。具体投资是什么时候成立决定了BIT在这个纠纷中的适用问题。而投资很可能是在BIT成立之前就存在的，所以BIT是不是可以适用到它生效前的投资？如何适用？</p>
+<p>受第二步启发，我把分类的标准定在行为act上，before/after the BIT’s entry into force. 顺带说一句，后来倒过去仔细看题目还发现了一个小点：就是区分breach of BIT 和 acts constituing the breach，以及dispute/claim的问题。本来打算另起一段解释一下，后来最后删减到2句话——毕竟跟主题没有那么大的联系。</p>
+<p>在BIT生效之后的行为毫无疑问是落入仲裁庭的属时管辖，所以就不赘述一笔带过。而在BIT生效之前的行为是不是适用BIT呢？理论上来说是不行的，因为根据VCLT和习惯国际法中的non-retroactivity原则，条约只能在其生效之后发挥作用。但是存在的例外就是如果这个行为本身具有延续性(continuing character)或者复合行为（composite act），行为本身和其效果会延续到BIT生效之后，所以BIT可以适用。不过我还没有仔细叙述的是对于延续行为，remedy的计算可能是从BIT生效到仲裁庭成立/行为结束；然而对于复合行为，因为行为的完成是看最后一个行为的完成时间，而且复合行为是一系列行为组成的行为——最后还是从整体上看做一个行为，所以BIT的效力是及于全体（包括BIT生效前）的行为。【这一点并不是特别确定，可以等周四revision问一下waibel。】</p>
+<p>那么对于BIT覆盖不到的行为部分应该怎么办呢？一般的概念就是“啊那就用习惯法中的minimum standard啊”，但是问题就来了，这又取决于双方是否有同意除了BIT之外可以适用其他法律——看，这就是适用法问题。【藏得好深啊！】</p>
+<p>当时Essay写的时候就觉得写到后面很混乱，虽然知道这是可行的（doable），但是总感觉这个结构并不是最优化，有进步的空间。图二完成于4月13日，其实字数什么的也写得差不多了，但是觉得还是有待改进——毕竟当时自己已经超过了extension deadline （4月10日）,但是想着还是要好好对待这个题目所以还是继续完善了一天。</p>
+<p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/LLM/IMG_20160414_002641_HDR_zpsdzwoe00k.jpg" alt=""></p>
+<p>图三完成于4月14日，根据这一结构对已完成的论文进行了重修，删减字数【好心疼啊】。然后提交。</p>
+<h2 id="Dr_Waibel的评价">Dr Waibel的评价</h2><blockquote>
+<p>First. An excellent essay. Very well written, clearly structured and good use of relevant authority. Shows a very good understanding of the relevant conceptual distinctions. The essay could have been further improved by a closer engagement with the statement.</p>
+<p>一等。出色的论文。书写极佳，结构清晰，很好地使用了相关权威资料。体现出了对相关概念区别的深刻理解。在进一步结合题目方面还有进步空间。</p>
+</blockquote>
+<p>不过待解决的问题有一个：But are these （the non-retroactivity principle reflected in Article 28 of the VCLT and in Article 13 of the ARSIWA） mandatory, i.e. do they apply even if the investment treaty – as in your example – provides otherwise? </p>
+<p>这个问题需要继续研究一下，我的第一直觉是：如果BIT明确规定了自己可以回溯到之前的投资项目进行适用，那么久可以不受VCLT28条和ARSIWA13条的拘束——lex specialis。</p>
+<p>好了，就到此为止吧！还是很激动的！！！</p>
+<p>BTW，早上来上ICL revision,碰到了Gray，跟她打了个招呼。感觉她还是略冷淡呀？不过我的兴致可高了！</p>
+<p>这再次证明了对于学生的鼓励对于学生学习积极性是多么的重要啊!!!!!</p>
+<p>打了鸡血的田鼠<br>2016年4月26日</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这篇essay（小论文）是写给国际投资法的，整个选题从去华盛顿之前就开始想了，然后陆陆续续跟人讨论——后来发现也并没有什么用，因为最后还是我自己把该读的文献资料大概摸熟并且找了很多除了K.Miles和Waibel他们推荐材料之外的文章，才勾勒出了最终的结构。虽然只有不到17]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[一个自转的旋轮]]></title>
@@ -1043,36 +1083,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<h3 id="该来的还是会来">该来的还是会来</h3><p>不知道你有时候会不会担心一个日期的到来，或许是参加多个活动出席多种场合，或是见一个或几个重要的人，亦或是以上全部。你会在脑海里一遍又一遍描摹模拟各种可能性，来给自己做好铺垫和准备，以在心理上应付潜在的突发状况。</p]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[满血复活]]></title>
-    <link href="http://yoursite.com/2015/10/20/%E6%BB%A1%E8%A1%80%E5%A4%8D%E6%B4%BB/"/>
-    <id>http://yoursite.com/2015/10/20/满血复活/</id>
-    <published>2015-10-20T20:40:22.000Z</published>
-    <updated>2015-10-21T15:13:51.000Z</updated>
-    <content type="html"><![CDATA[<p>昨晚睡觉前洗漱，发现来自香港的室友给在我的门上贴了一小袋巧克力，然后还有一张贴心的小纸条。香港的女生目前碰到的都很女性化（feminine）,不管是说话还是行为举止。但是跟台湾女生的软糯不太一样，香港女生总有一种很硬很锐的气在那些女性化的举止下游窜，不时涌现。</p>
-<p>今天早晨起来迷迷糊糊地去International Commercial Litigation，今天讲的是Brussel 1 Regulations. 代课的讲师说话很清晰然而特别的快……而且语速语调太平稳了，一点都不适合早晨九点中脑子还没开动马力的我。明天得好好整理咯！</p>
-<p>放学回家就接到了Lloyds的确认电话，向我询问确认周四的预约是否可以准时去，解释了需要什么文件之类的。还蛮贴心的。</p>
-<p>晚上接受美伊的邀请去Selwyn（塞尔温学院）吃Formal，据说不是正常水准。她们学院餐前的酒吧可以买酒，今天因为主餐是羊肉，所以Bartender推荐的是一瓶红酒，口感很顺滑，也没有很大的劲头，只要6.7镑。真是太感人了。Selwyn的Hall也很古典，错落地挂着画像，宏伟壮观称不上，庄重感却是实实在在的。只是今天人太少了，中间一条桌子都没有坐满，也不太好意思拿出相机来拍照。</p>
-<p>头盘的汤是南瓜汤，跟上次Hughes的Matriculation Dinner的头盘一样，感觉还有胡萝卜,略有点辣和咸，就着餐前面包吃了1/3就差不多了。主菜是羊腿，形状巨大，足足有成年人的两个拳头，入味程度略逊，🐑肉还能尝得出一点点膻味（大概是我比较挑剔），并没有吃完。倒是作为配餐的土豆泥非常香甜绵软，应该是加了牛奶的缘故。然后就是甜点，上来我们都笑了，美伊笑着说平时不是这样的。哈哈，却是这看起来比较像是安德鲁森买的嘛！外层的蛋糕非常实在，要起来还有硬硬的感觉，甜度在可以接受的范围。重点说一下蛋糕中间的红莓黑莓各种莓子清新的酸味将整个蛋糕朴素的甜味瞬间提高了一个标准。吃完，拒绝了咖啡，可惜没有茶。睡了午觉晚上再喝咖啡，这种虐待自己的事情不能做啊。</p>
-<p>今天接到了Waibel的回复，坦然接受这个事实。跟我之前想的一样，他们也不太看好Persistent Objector这一学说，也就更不确定它是否能在国际投资法中扮演任何角色，所以也对我潜在的研究成果没有信心。另一个原因是程序上的，因为我在计划书里面提到希望这篇论文能够complement（补充完善）我之前的硕士论文，他们认为这不符合规定，因为根据Cam法学院的规定，在这里完成的论文必须是全新的、独立的、不依附于之前研究的作品。基于以上两个原因，我的计划书将不被接受。</p>
-<p>完全在我的意料之中，而且有理有据。想到这个就释然啦，还是好好学习，虚心上课，充实自己。文章自己写也是可以的，有好题目跟老师讨论也完全是可以的嘛。昨晚跟XZG交流了一下心态问题，他批评我说还没有“名校心态”，然后又纠正了一下说并不是字面意思，而是说应该有一种“我可以、我行”的态度，不管碰到什么困难和拒绝，要淡定对待，因为拒绝本身不是对我作为个人的否定，而应该成为把我带向更合适恰当方向的路标。应该学学18和其他人。</p>
-<p>有道理。</p>
-<p>在Y和多方好友的合力下，加上主观能动性的发挥，我心理建设基本上完全恢复。不要担心😄。</p>
-<p>(1) 香港室友的巧克力和纸条。</p>
-<p><img src="https://lh4.googleusercontent.com/-YqHEKymjGSs/Via-OQs26ZI/AAAAAAAABSY/7-yxNI75WBE/w440-h659-no/DSC00150.JPG" alt=""></p>
-<p>(2) Selwyn Formal餐后“朴素”的甜点。</p>
-<p><img src="https://lh6.googleusercontent.com/-BS_g6br8-jg/ViamYnV7ooI/AAAAAAAABRY/y_YabSveaDU/w948-h632-no/DSC00152.JPG" alt=""></p>
-<p>(3) 从Selwyn骑车回来，经过Queen’s（皇后学院）旁边的Silver Street (银街)。夜深露重，车垫上有一层薄薄的寒意。剑桥夜间清冷，路灯看起来却很温暖。用这种反差来纪念我第一次骑车夜行。</p>
-<p><img src="https://lh3.googleusercontent.com/-WZa7OERlfsM/ViaoYL2QhHI/AAAAAAAABR4/OrMux4PSX6c/s640-Ic42/Queen%252527s%252520Night.JPG" alt=""></p>
-<p>最近更新很勤快、再接再厉的田鼠<br>2015年10月21日12：00 于剑桥</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>昨晚睡觉前洗漱，发现来自香港的室友给在我的门上贴了一小袋巧克力，然后还有一张贴心的小纸条。香港的女生目前碰到的都很女性化（feminine）,不管是说话还是行为举止。但是跟台湾女生的软糯不太一样，香港女生总有一种很硬很锐的气在那些女性化的举止下游窜，不时涌现。</p>
-<p]]>
     </summary>
     
   </entry>
