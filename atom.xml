@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-02-17T16:07:23.503Z</updated>
+  <updated>2023-02-26T17:28:12.363Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Low-hanging Fruit</title>
+    <link href="http://yoursite.com/2023/02/26/Low-hanging-Fruit/"/>
+    <id>http://yoursite.com/2023/02/26/Low-hanging-Fruit/</id>
+    <published>2023-02-25T16:02:20.000Z</published>
+    <updated>2023-02-26T17:28:12.363Z</updated>
+    
+    <content type="html"><![CDATA[<p>周六（2023&#x2F;2&#x2F;25)朋友圈被<a href="http://www.mofcom.gov.cn/article/xwfb/xwsjfzr/202302/20230203393453.shtml">新加坡亚化案中方胜诉</a>的官方新闻刷屏。</p><span id="more"></span><p>这让我想起了五年前的某个下午，我坐在昌平回城的路上，改着类似的新闻稿。需求是简洁准确，不要复杂。这个案子的声明类似，有意思的是特地赞赏了“本案仲裁庭所展现出的独立性和公正性”。只能说是意有所指。</p><p>案件<a href="http://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11076/DS18437_En.pdf">裁决</a>虽有115页，但仲裁庭的分析所占篇幅并不长，论点很集中。中国第一代BIT（虽然官方并不承认这种说法）管辖权问题已经是老生常谈了，虽然每个条约措辞都有差异，需要具案分析，但整体趋势在今年Beijing Everyway Traffic诉加纳和亚化案之后，显然是限缩解释（即提交仲裁的范围仅限于征收补偿额）占了上风。可以预见到接下来几周和几个月又有不少公众号和文章又要重头梳理一遍中国BIT案件，来回来去都是那么些东西。Low-hanging fruits谁都想要摘，投资仲裁的帽子哪个中国做仲裁的律师团队不想戴？</p><p>需要讨论的有价值的问题已经从concerning&#x2F;involving、MFN要不要扩大&amp;怎么扩大转移到更深更需要政策价值判断的问题。单独代理终究会实现且已经实现，但真正意义上能够在法律技术层面上与一流国际法律师一会，其中差距不会因为坐在同一张桌子的两面而缩短。</p><p>话说回来，有限的经历告诉我：打得好不如仲裁庭选得好。这话听得就像是“干得好不如嫁得好”一样政治不正确。投资仲裁更是如此，不然也不会看到重复指定被批评了多少年，也不妨碍投资者和国家（以及它们的律师）继续指定对他们有力的仲裁员。那么压力就给到了首席到底是谁。决定首席的程序越来越复杂，结果是可控又不可控。最后大概率落到指定机构（和它背后的法律顾问和实习生们）的手上。（我也不知道我在胡言乱语什么……）</p><p>但是要改革整个体制，拜托从2017年到现在连个仲裁员行为守则都该到了第五稿，到底适用于仲裁员还是审裁员，多重身份禁止不禁止、禁止到什么范围，来回来去还是那些东西。但是我现在非常非常理解其中的困难，毕竟在一个公司内部修订个制度都要应付那么多攸关方意见，好歹这些攸关方还能尊重主责方的最终决定。UNCITRAL有什么呢？UN在世界政治里的存在感越来越弱，单边主义现在看起来也不是不可以，世界照常运转。连WTO跛脚了好像也没有那么致命的影响，更何况一个all about money的投资仲裁体系。</p><p>那么我想表达的是什么呢？大概就是，这些好像都没有那么重要。伟大如格劳秀斯，伟大的战争和和平法也是从东印度公司服务的辩护词里孕育。我到底对国际法还有什么期待呢？</p><p><img src="https://pic.imgdb.cn/item/63fb95f5f144a01007c3af28.webp"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;周六（2023&amp;#x2F;2&amp;#x2F;25)朋友圈被&lt;a href=&quot;http://www.mofcom.gov.cn/article/xwfb/xwsjfzr/202302/20230203393453.shtml&quot;&gt;新加坡亚化案中方胜诉&lt;/a&gt;的官方新闻刷屏。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="国际法" scheme="http://yoursite.com/categories/%E5%9B%BD%E9%99%85%E6%B3%95/"/>
+    
+    
+    <category term="周记" scheme="http://yoursite.com/tags/%E5%91%A8%E8%AE%B0/"/>
+    
+    <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>恐怕过不去，但也可接受</title>
@@ -445,29 +468,6 @@
     
     
     <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>传说中的小年夜</title>
-    <link href="http://yoursite.com/2016/02/01/%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%B9%B4%E5%A4%9C/"/>
-    <id>http://yoursite.com/2016/02/01/%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%B9%B4%E5%A4%9C/</id>
-    <published>2016-02-01T14:07:35.000Z</published>
-    <updated>2023-02-18T03:56:10.135Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天忙了一整天。</p><span id="more"></span><p>早晨7点起床，磨蹭到七点半，骑车去火车站找CSY。一中学弟带着妈妈给我的包裹，从伦敦来剑桥——开会顺便送包裹。在寒风中等了一会儿，手机网络挂了，也没有留&#x2F;给学弟电话，只能祈祷刚才给的信息足够充分好让他找到我。然而已经超过火车预计到达10分钟后他还没有从火车站的门中出现，我就有点着急了。忽然意识到火车站的另一部分站台配有另一个出站口的，于是立马转弯看到了学弟。学弟二话不说就给我熟悉的红包裹，把他带到的士停车点排队之后他就让我先回去了。一路狂骑回家，迫不及待打开验收。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160201_102500_HDR_zpsohqlottj.jpg"></p><ol><li><p>肉松 （最想念又最可以携带的家里的味道〒▽〒）</p></li><li><p>姜母茶 （再也不怕狂风骤雨骑车上学放学划船淋湿感冒会影响姜茶的库存了……前几个月都是数着袋数喝的，深深感觉到了计划经济的艰难。）</p></li><li><p>大小不等的洗衣袋 （我不会告诉你我在argos上好不容易以为找到了洗衣袋，结果收货的时候发现是筒状的脏衣袋）。嗯，就是这货。虽然说也是很有必要的，然而我想要的是可以装衣服放到滚筒里面去的袋子呀！！</p></li></ol><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/IMG_20160201_223020_HDR_zpsdme0isae.jpg"></p><p>然而最令人惊喜的是妈妈放进去的完全出于我意料之外的无花果干，果然跟陈皮一样好吃，刚好我前几天超级想吃酸梅陈皮之类的，谁想到妈妈跟我的默契真是万山无阻。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160201_221100_HDR_zpszpkqpdz8.jpg"></p><p>今天上完WTO,紧接着就是CJICL的会议，今天终于布置了任务了……下快手把spreadsheet的分配任务主动申请任务，可以看看到底他们挑了什么题目。</p><p>下午的法语课知道惊天噩耗是<strong>3月5号要期末考试</strong>，晴天霹雳啊！！还要考听力！！！从现在开始每天都要听一个小时以上吧！</p><p>然后终于到了扣题时间：今天是小年夜，所以就问了同是大陆来的学生JT和阿光要不要庆祝一下，于是在此寒冬之夜，自然是吃火锅最保险了……水饺好吃，可是我还是怀念国内好多排的酱料可以选。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160201_172311_HDR_zpsbjxddsx4.jpg"></p><p>还没吃完就撇下其他两个人去法学院听鄙校Jessup的训练，上次在clare formal遇到的香港女生J也在里面，据说她是想要做barrister的人。虽然语音并不是完美，声调也略高，但是整体流畅而冷静，论证的结构很亚洲（嗯你们懂得）但是进退还算有度，考虑到貌似这是第一次还是第二次拉人来听，这种程度的稚嫩是可以容忍的呢……【喂以后人家是出庭大律师我也只能在她事业发展初期这么说了！】另一个Judge，Namita之前是奥克兰大学后来执业了几年，在读书时候是奥克兰大学在国际赛上的研究员（然而发言的气势简直比mooter还嚣张啊），不过人家好歹还去过国际赛……然后一直听到被老大爷赶出法学院，大家站在寒风中又讨论了一会儿，感觉好像回到了自己打比赛的时候。</p><p>嗯，既然此生无法作为队员去华盛顿，那就作为法官去吧。</p><p>短暂回顾下上周：</p><p>周天的时候看到了Parker’s piece的一角居然种了黄色水仙花，立刻想起了《大鱼》。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160131_132514_HDR_zpsxisyapke.jpg"></p><p>周六成功地爬起来去吃了brunch，有一个爸爸带着妻子和4个小孩来吃，占据了第一排长桌的一半。这次的培根煎的不够脆……其他是一如既往地好吃~</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160130_120845_HDR_zpswohdatvk.jpg"></p><p>吃完饭就去图书馆自习。天气真是太美好了，完全不想要回宿舍呢。在学院图书馆给爸妈做一个粗略的旅游景点研究介绍和材料准备，很期待他们能来。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/2016/IMG_20160130_123716_HDR_zpszqrttagz.jpg"></p><p>周五中午下完课发现自己的自行车锁完全被风和可能存在的人为撞击而变得四分五裂。不嫌重地收拾起残渣放在书包里然后留作纪念（其实拍了照就打算找个时间扔了吧）。为了赶电影时间，跑到最近（其实并不是）的自行车店买了最便宜的链锁（然而也要12镑多）并试图自己打了气（然而似乎没打上……），然后一路跑到快靠近Homerton的light cinema再看了一遍spotlight.</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/DSC00924_zpsp5zvbeca.jpg"></p><p>Spotlight大概值得再写一篇日志吧。整场不超过10个人。一直做到最后。原来配乐是Howard Shore,也是指环王系列的作曲，难怪那么曲调那么清冷。好吧，除了电影票根之外，由于观影中害怕旁边的老爷爷嫌弃我看严肃电影也吃爆米花（其实我是没来得及吃午饭……），就只能趁着放广告的时候狂吃一起，然而也只吃了不到1&#x2F;6.剩下的最后用纸巾塞在顶上固定好放在包里，放到宿舍继续吃。</p><p><img src="http://i1039.photobucket.com/albums/a472/pianpian1990/DSC00925_zpsrugkouns.jpg"></p><p>话说这个量也还是“中”，英国人的食量太惊人了……</p><p>啊自我从法学院回来到现在都没做过闲事呢！！效率真高啊！！</p><p>表扬一下自己。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;今天忙了一整天。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="生活记录" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="学生时代" scheme="http://yoursite.com/tags/%E5%AD%A6%E7%94%9F%E6%97%B6%E4%BB%A3/"/>
-    
-    <category term="剑桥" scheme="http://yoursite.com/tags/%E5%89%91%E6%A1%A5/"/>
     
   </entry>
   
